@@ -13,7 +13,7 @@
     "gulp-concat": "^2.6.1",
     "gulp-uglifyjs": "^0.6.2",
     "jquery": "^3.3.1",
-    "mongoose": "^4.13.7",
+    "mongoose": "^4.13.21",
     "static-asset": "^0.6.0"
   },
   "devDependencies": {
